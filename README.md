@@ -13,7 +13,7 @@
 
 <br/>
 
-> **"Je conçois des solutions Data & IA orientées impact opérationnel : agents autonomes, architectures GraphRAG, pipelines de streaming continus et modélisation prédictive."**
+> **"Je conçois des solutions Data & IA orientées impact opérationnel : architectures multi-agents autonomes, systèmes GraphRAG, pipelines de streaming continus et modèles décisionnels prédictifs."**
 
 </div>
 
@@ -26,11 +26,11 @@
     <td width="33%" align="center">
       <h3>🤖 IA Générative, Agents & GraphRAG</h3>
       <p align="left">Systèmes multi-agents autonomes, architectures GraphRAG combinant graphes de connaissances et recherche vectorielle, et serving local de LLMs.</p>
-      <sub><b>Outils :</b> LangChain • LangGraph • CrewAI • Neo4j • ChromaDB • vLLM • Ollama</sub>
+      <sub><b>Outils :</b> LangChain • LangGraph • CrewAI • Neo4j • ChromaDB • vLLM • Ollama • LM Studio</sub>
     </td>
     <td width="33%" align="center">
       <h3>📊 Data Engineering & Streaming</h3>
-      <p align="left">Pipelines ETL/ELT distribués, ingestion de données temps réel, bases NoSQL/SQL et automatisation complète par conteneurs.</p>
+      <p align="left">Pipelines ETL/ELT distribués, ingestion de données temps réel, bases NoSQL/SQL, web scraping haute performance et conteneurisation.</p>
       <sub><b>Outils :</b> Apache Kafka • Apache Airflow • Crawl4AI • PostgreSQL • MongoDB • Docker</sub>
     </td>
     <td width="33%" align="center">
@@ -70,7 +70,7 @@
   <a href="https://trychroma.com"><img src="https://img.shields.io/badge/ChromaDB-FF4500?style=flat-square&logo=fire&logoColor=white" height="28"/></a>
 </p>
 
-#### **Data Science, Pipelines, Cloud & MLOps**
+#### **Data Science, Pipelines Data, Cloud & MLOps**
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,opencv,kafka,gcp,aws,docker,linux,git" />
 </p>
@@ -86,66 +86,134 @@
 
 ---
 
-### 🚀 Projets Phares & Solutions Métier
+### 🚀 Projets Phares & Réalisations
 
 <table>
+  <!-- LIGNE 1 : Xamale RH | Assistance-FAQ | DeepLearning FER -->
   <tr>
-    <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/Issa17398/Assistance-FAQ">Xamale RH & RAG Assistants</a></h3>
-      <p><i>Plateforme d'IA générative, GraphRAG et traitement documentaire</i></p>
-      <ul>
-        <li>Tri et qualification automatisée de candidatures (matching CV vs fiches de poste)[cite: 13].</li>
-        <li>Génération augmentée par récupération documentaire et graphes relationnels[cite: 13].</li>
-      </ul>
+    <td width="33%" valign="top">
+      <a href="https://github.com/Issa17398/Assistance-FAQ">
+        <img src="assets/xamale-rh.png" width="100%" alt="Xamale RH" style="border-radius: 8px;" />
+      </a>
+      <h4>🤖 <a href="https://github.com/Issa17398/Assistance-FAQ">Xamale RH</a></h4>
+      <p><b>LLM • Multi-Agents • RAG</b></p>
+      <p>Assistant de recrutement intelligent automatisant l'analyse comparative entre offres d'emploi et CV par similarité sémantique.</p>
       <p>
         <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white"/>
-        <img src="https://img.shields.io/badge/LangGraph-0B0F19?style=flat-square&logo=diagram-next&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white"/>
-        <img src="https://img.shields.io/badge/ChromaDB-FF4500?style=flat-square&logo=fire&logoColor=white"/>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white"/>
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3>⚡ <a href="https://github.com/Issa17398/Web_Scraping">SamaToll & Streaming Data</a></h3>
-      <p><i>Architecture de données distribuée & ingestion multi-sources</i></p>
-      <ul>
-        <li>Collecte automatisée continue de flux transport et météo en temps réel[cite: 13].</li>
-        <li>Stockage hybride relationnel/documentaire et orchestration complète de flux[cite: 13].</li>
-      </ul>
+    <td width="33%" valign="top">
+      <a href="https://github.com/Issa17398/Assistance-FAQ">
+        <img src="assets/assistance-faq.png" width="100%" alt="Assistance FAQ" style="border-radius: 8px;" />
+      </a>
+      <h4>🧠 <a href="https://github.com/Issa17398/Assistance-FAQ">Assistance-FAQ</a></h4>
+      <p><b>RAG & GraphRAG</b></p>
+      <p>Moteur de recherche contextuel et d'assistance pédagogique répondant aux interrogations à partir de supports de cours.</p>
       <p>
-        <img src="https://img.shields.io/badge/Crawl4AI-3B82F6?style=flat-square&logo=curl&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/ChromaDB-FF4500?style=flat-square&logo=fire&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
+        <img src="https://img.shields.io/badge/LangGraph-0B0F19?style=flat-square&logo=diagram-next&logoColor=white"/>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/Issa17398/Projet_DeepLearning_FER">
+        <img src="assets/projet-fer.png" width="100%" alt="DeepLearning FER" style="border-radius: 8px;" />
+      </a>
+      <h4>👁️ <a href="https://github.com/Issa17398/Projet_DeepLearning_FER">DeepLearning FER</a></h4>
+      <p><b>Computer Vision</b></p>
+      <p>Système de détection et reconnaissance des émotions faciales en temps réel via des réseaux neuronaux convolutionnels.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CNN-3776AB?style=flat-square"/>
       </p>
     </td>
   </tr>
+
+  <!-- LIGNE 2 : Approbation Prêt | Point BI | Mon Portfolio -->
   <tr>
-    <td width="50%" valign="top">
-      <h3>👁️ <a href="https://github.com/Issa17398/IscanPlus">IscanPlus & Vision OCR</a></h3>
-      <p><i>Système de numérisation intelligente et extraction textuelle</i></p>
-      <ul>
-        <li>Pipeline de vision par ordinateur pour le nettoyage et l'alignement d'images scannées.</li>
-        <li>Extraction structurée de texte vers des bases de données d'entreprise.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Deep_Learning-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📊 <a href="https://github.com/Issa17398/Projet_Approbation_pret">Scoring & Approbation de Prêt</a></h3>
-      <p><i>Machine Learning financier & modélisation du risque de crédit</i></p>
-      <ul>
-        <li>Évaluation prédictive du risque de défaut sur des portefeuilles clients bancaires.</li>
-        <li>Pipelines de feature engineering et suivi des métriques via registre d'expériences.</li>
-      </ul>
+    <td width="33%" valign="top">
+      <a href="https://github.com/Issa17398/Projet_Approbation_pret">
+        <img src="assets/approbation-pret.png" width="100%" alt="Approbation de Prêt" style="border-radius: 8px;" />
+      </a>
+      <h4>📊 <a href="https://github.com/Issa17398/Projet_Approbation_pret">Approbation de Prêt</a></h4>
+      <p><b>Machine Learning & Risk</b></p>
+      <p>Modèle décisionnel pour l'évaluation du risque de défaut et l'aide à l'octroi de crédits bancaires.</p>
       <p>
         <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>
         <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/Issa17398/Projet_Point_BI">
+        <img src="assets/point-bi.png" width="100%" alt="Point BI" style="border-radius: 8px;" />
+      </a>
+      <h4>📈 <a href="https://github.com/Issa17398/Projet_Point_BI">Projet Point BI</a></h4>
+      <p><b>Business Intelligence</b></p>
+      <p>Pipelines de traitement de données commerciales, indicateurs KPI et tableaux de bord analytiques pour le pilotage d'activité.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Data_Viz-0284C7?style=flat-square"/>
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/Issa17398/Mon_Portfolio">
+        <img src="assets/mon-portfolio.png" width="100%" alt="Mon Portfolio" style="border-radius: 8px;" />
+      </a>
+      <h4>🌐 <a href="https://github.com/Issa17398/Mon_Portfolio">Mon Portfolio</a></h4>
+      <p><b>Frontend & Design Web</b></p>
+      <p>Interface interactive et réactive valorisant mes compétences, mes projets en intelligence artificielle et mes coordonnées.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+
+  <!-- LIGNE 3 : XamaleScrape | Seneweb Scraping | Marhabane Technologie -->
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://github.com/Issa17398/Web_Scraping">
+        <img src="assets/xamale-scrape.png" width="100%" alt="XamaleScrape" style="border-radius: 8px;" />
+      </a>
+      <h4>⚡ <a href="https://github.com/Issa17398/Web_Scraping">XamaleScrape</a></h4>
+      <p><b>Data Ingestion & LLM Ready</b></p>
+      <p>Moteur d'extraction web asynchrone conçu pour transformer le contenu non structuré en données exploitables par des LLMs.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Crawl4AI-3B82F6?style=flat-square&logo=curl&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/Issa17398/Web_Scraping">
+        <img src="assets/seneweb-scraping.png" width="100%" alt="Scraping Seneweb" style="border-radius: 8px;" />
+      </a>
+      <h4>🕷️ <a href="https://github.com/Issa17398/Web_Scraping">Scraping Seneweb</a></h4>
+      <p><b>NLP & Pipeline Média</b></p>
+      <p>Collecte automatisée d'articles de presse, analyse thématique de l'actualité et structuration dans une base de données documentaire.</p>
+      <p>
+        <img src="https://img.shields.io/badge/BeautifulSoup-59666C?style=flat-square"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/NLP-FF6F00?style=flat-square"/>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/Issa17398/Marhabane_technologie">
+        <img src="assets/marhabane-technologie.png" width="100%" alt="Marhabane Technologie" style="border-radius: 8px;" />
+      </a>
+      <h4>🏢 <a href="https://github.com/Issa17398/Marhabane_technologie">Marhabane Technologie</a></h4>
+      <p><b>Solutions Digitales & Web</b></p>
+      <p>Plateforme web de présentation de services technologiques connectée à des endpoints de gestion automatisée.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
       </p>
     </td>
   </tr>
@@ -166,7 +234,7 @@
 
 <div align="center">
 
-Je suis disponible pour des **missions de consulting**, de la mise en place d'**architectures IA avancées (LLMs/Agents/GraphRAG)** ou des **projets Data Engineering**[cite: 13] :
+Je suis disponible pour des **missions de consulting**, de la conception d'**architectures IA avancées (LLMs/Agents/GraphRAG)** ou des **renforts Data Engineering**[cite: 13] :
 
 <br/>
 

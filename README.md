@@ -92,10 +92,10 @@
   <!-- LIGNE 1 -->
   <tr>
     <td width="33%" valign="top">
-      <a href="https://github.com/Issa17398/French_energy">
+      <a href="https://github.com/Issa17398/XamaleEnergy">
         <img src="assets/xamale-energie.png" width="100%" alt="XamaleEnergy" style="border-radius: 8px;" />
       </a>
-      <h4>⚡ <a href="https://github.com/Issa17398/French_energy">XamaleEnergy</a> <img src="https://img.shields.io/badge/Public-green?style=flat-square"/></h4>
+      <h4>⚡ <a href="https://github.com/Issa17398/XamaleEnergy">XamaleEnergy</a> <img src="https://img.shields.io/badge/Public-green?style=flat-square"/></h4>
       <p><b>Data Engineering • Medallion • Star Schema</b></p>
       <p>Observatoire des données énergétiques françaises (RTE, Enedis). Pipeline Bronze/Silver/Gold en Parquet, audit qualité 100% PASS, API FastAPI et dashboard React 19.</p>
       <p>
@@ -162,9 +162,7 @@
       </p>
     </td>
     <td width="33%" valign="top">
-      <a href="https://github.com/Issa17398/Projet_Point_BI">
-        <img src="assets/madiba.png" width="100%" alt="Point BI" style="border-radius: 8px;" />
-      </a>
+      <a href="https://github.com/Issa17398/Projet_Point_BI"></a>
       <h4>📈 <a href="https://github.com/Issa17398/Projet_Point_BI">Projet Power BI</a> <img src="https://img.shields.io/badge/Public-green?style=flat-square"/></h4>
       <p><b>Business Intelligence</b></p>
       <p>Pipelines de traitement de données commerciales, indicateurs KPI et tableaux de bord analytiques pour le pilotage d'activité[cite: 17].</p>

@@ -7,7 +7,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/issakha-sall)
-[![Portfolio](https://img.shields.io/badge/Mon_Portfolio-0F172A?style=for-the-badge&logo=About.me&logoColor=white)](#-projets-phares--solutions-métier)
+[![Portfolio](https://img.shields.io/badge/Mon_Portfolio-0F172A?style=for-the-badge&logo=About.me&logoColor=white)](#-projets-phares--réalisations)
 [![Freelance](https://img.shields.io/badge/Disponible_en_Freelance-16A34A?style=for-the-badge&logo=checkmarx&logoColor=white)](#-disponibilité--contact)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:issakha.sall@univ-thies.sn)
 
@@ -89,13 +89,13 @@
 ### 🚀 Projets Phares & Réalisations
 
 <table>
-  <!-- LIGNE 1 : Xamale RH | Assistance-FAQ | DeepLearning FER -->
+  <!-- LIGNE 1 : Xamale RH | Assistance-faq | DeepLearning FER -->
   <tr>
     <td width="33%" valign="top">
-      <a href="https://github.com/Issa17398/Assistance-FAQ">
+      <a href="#-projets-sous-accord-de-confidentialité-privés">
         <img src="assets/xamale-rh.png" width="100%" alt="Xamale RH" style="border-radius: 8px;" />
       </a>
-      <h4>🤖 <a href="https://github.com/Issa17398/Assistance-FAQ">Xamale RH</a></h4>
+      <h4>🤖 <a href="#-projets-sous-accord-de-confidentialité-privés">Xamale RH</a> <img src="https://img.shields.io/badge/🔒-Privé-red?style=flat-square"/></h4>
       <p><b>LLM • Multi-Agents • RAG</b></p>
       <p>Assistant de recrutement intelligent automatisant l'analyse comparative entre offres d'emploi et CV par similarité sémantique.</p>
       <p>
@@ -105,11 +105,11 @@
       </p>
     </td>
     <td width="33%" valign="top">
-      <a href="https://github.com/Issa17398/Assistance-FAQ">
+      <a href="https://github.com/Issa17398/Assistance-faq">
         <img src="assets/assistance-faq.png" width="100%" alt="Assistance FAQ" style="border-radius: 8px;" />
       </a>
-      <h4>🧠 <a href="https://github.com/Issa17398/Assistance-FAQ">Assistance-FAQ</a></h4>
-      <p><b>RAG</b></p>
+      <h4>🧠 <a href="https://github.com/Issa17398/Assistance-faq">Assistance-faq</a> <img src="https://img.shields.io/badge/Public-green?style=flat-square"/></h4>
+      <p><b>RAG Pédagogique</b></p>
       <p>Moteur de recherche contextuel et d'assistance pédagogique répondant aux interrogations à partir de supports de cours.</p>
       <p>
         <img src="https://img.shields.io/badge/ChromaDB-FF4500?style=flat-square&logo=fire&logoColor=white"/>
@@ -121,7 +121,7 @@
       <a href="https://github.com/Issa17398/Projet_DeepLearning_FER">
         <img src="assets/projet-fer.png" width="100%" alt="DeepLearning FER" style="border-radius: 8px;" />
       </a>
-      <h4>👁️ <a href="https://github.com/Issa17398/Projet_DeepLearning_FER">DeepLearning FER</a></h4>
+      <h4>👁️ <a href="https://github.com/Issa17398/Projet_DeepLearning_FER">DeepLearning FER</a> <img src="https://img.shields.io/badge/Public-green?style=flat-square"/></h4>
       <p><b>Computer Vision</b></p>
       <p>Système de détection et reconnaissance des émotions faciales en temps réel via des réseaux neuronaux convolutionnels.</p>
       <p>
@@ -132,13 +132,13 @@
     </td>
   </tr>
 
-  <!-- LIGNE 2 : Approbation Prêt | Point BI | Mon Portfolio -->
+  <!-- LIGNE 2 : Approbation Prêt | Power BI | Mon Portfolio -->
   <tr>
     <td width="33%" valign="top">
       <a href="https://github.com/Issa17398/Projet_Approbation_pret">
         <img src="assets/approbation-pret.png" width="100%" alt="Approbation de Prêt" style="border-radius: 8px;" />
       </a>
-      <h4>📊 <a href="https://github.com/Issa17398/Projet_Approbation_pret">Approbation de Prêt</a></h4>
+      <h4>📊 <a href="https://github.com/Issa17398/Projet_Approbation_pret">Approbation de Prêt</a> <img src="https://img.shields.io/badge/Public-green?style=flat-square"/></h4>
       <p><b>Machine Learning & Risk</b></p>
       <p>Modèle décisionnel pour l'évaluation du risque de défaut et l'aide à l'octroi de crédits bancaires.</p>
       <p>
@@ -149,7 +149,7 @@
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/Issa17398/Projet_Point_BI"></a>
-      <h4>📈 <a href="https://github.com/Issa17398/Projet_Point_BI">Projet Power BI</a></h4>
+      <h4>📈 <a href="https://github.com/Issa17398/Projet_Point_BI">Projet Power BI</a> <img src="https://img.shields.io/badge/Public-green?style=flat-square"/></h4>
       <p><b>Business Intelligence</b></p>
       <p>Pipelines de traitement de données commerciales, indicateurs KPI et tableaux de bord analytiques pour le pilotage d'activité.</p>
       <p>
@@ -159,12 +159,12 @@
       </p>
     </td>
     <td width="33%" valign="top">
-      <a href="https://github.com/Issa17398/Mon_Portfolio">
+      <a href="#-projets-sous-accord-de-confidentialité-privés">
         <img src="assets/mon-portfolio.png" width="100%" alt="Mon Portfolio" style="border-radius: 8px;" />
       </a>
-      <h4>🌐 <a href="https://github.com/Issa17398/Mon_Portfolio">Mon Portfolio</a></h4>
+      <h4>🌐 <a href="#-projets-sous-accord-de-confidentialité-privés">Mon Portfolio</a> <img src="https://img.shields.io/badge/🔒-Privé-red?style=flat-square"/></h4>
       <p><b>Frontend & Design Web</b></p>
-      <p>Interface interactive et réactive valorisant mes compétences, mes projets en intelligence artificielle et mes coordonnées.</p>
+      <p>Application vitrine moderne et interactive valorisant mes compétences, mes projets en intelligence artificielle et mes coordonnées.</p>
       <p>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
@@ -176,15 +176,15 @@
   <!-- LIGNE 3 : XamaleScrape | Seneweb Scraping | Marhabane Technologie -->
   <tr>
     <td width="33%" valign="top">
-      <a href="https://github.com/Issa17398/Web_Scraping">
-        <img src="assets/xamale-scrape.png" width="100%" alt="XamaleScrape" style="border-radius: 8px;" />
+      <a href="https://github.com/Issa17398/XamaleScrape">
+        <img src="assets/xamale-srape.png" width="100%" alt="XamaleScrape" style="border-radius: 8px;" />
       </a>
-      <h4>⚡ <a href="https://github.com/Issa17398/Web_Scraping">XamaleScrape</a></h4>
+      <h4>⚡ <a href="https://github.com/Issa17398/XamaleScrape">XamaleScrape</a> <img src="https://img.shields.io/badge/Public-green?style=flat-square"/></h4>
       <p><b>Data Ingestion & LLM Ready</b></p>
       <p>Moteur d'extraction web asynchrone conçu pour transformer le contenu non structuré en données exploitables par des LLMs.</p>
       <p>
         <img src="https://img.shields.io/badge/Crawl4AI-3B82F6?style=flat-square&logo=curl&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
       </p>
     </td>
@@ -192,7 +192,7 @@
       <a href="https://github.com/Issa17398/Web_Scraping">
         <img src="assets/seneweb-scraping.png" width="100%" alt="Scraping Seneweb" style="border-radius: 8px;" />
       </a>
-      <h4>🕷️ <a href="https://github.com/Issa17398/Web_Scraping">Scraping Seneweb</a></h4>
+      <h4>🕷️ <a href="https://github.com/Issa17398/Web_Scraping">Scraping Seneweb</a> <img src="https://img.shields.io/badge/Public-green?style=flat-square"/></h4>
       <p><b>NLP & Pipeline Média</b></p>
       <p>Collecte automatisée d'articles de presse, analyse thématique de l'actualité et structuration dans une base de données documentaire.</p>
       <p>
@@ -202,10 +202,10 @@
       </p>
     </td>
     <td width="33%" valign="top">
-      <a href="https://github.com/Issa17398/Marhabane_technologie">
+      <a href="#-projets-sous-accord-de-confidentialité-privés">
         <img src="assets/marhabane-technologie.png" width="100%" alt="Marhabane Technologie" style="border-radius: 8px;" />
       </a>
-      <h4>🏢 <a href="https://github.com/Issa17398/Marhabane_technologie">Marhabane Technologie</a></h4>
+      <h4>🏢 <a href="#-projets-sous-accord-de-confidentialité-privés">Marhabane Technologie</a> <img src="https://img.shields.io/badge/🔒-Privé-red?style=flat-square"/></h4>
       <p><b>Solutions Digitales & Web</b></p>
       <p>Plateforme web de présentation de services technologiques connectée à des endpoints de gestion automatisée.</p>
       <p>
@@ -216,6 +216,12 @@
     </td>
   </tr>
 </table>
+
+---
+
+### 🔒 Projets sous Accord de Confidentialité (Privés)
+
+> Les dépôts **Xamale RH**, **Mon_Portfolio** et **Marhabane_technologie** sont configurés en accès privé pour des impératifs contractuels, de protection de code propriétaire ou d'intégration de clés d'API métier.  
 
 ---
 
@@ -232,7 +238,7 @@
 
 <div align="center">
 
-Je suis disponible pour des **missions de consulting**, de la conception d'**architectures IA avancées (LLMs/Agents/GraphRAG)** ou des **renforts Data Engineering**[cite: 13] :
+Je suis disponible pour des **missions de consulting**, de la conception d'**architectures IA avancées (LLMs/Agents/GraphRAG)** ou des **renforts Data Engineering** :
 
 <br/>
 

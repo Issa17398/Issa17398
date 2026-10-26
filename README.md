@@ -177,7 +177,7 @@
   <tr>
     <td width="33%" valign="top">
       <a href="https://github.com/Issa17398/XamaleScrape">
-        <img src="assets/xamale-srape.png" width="100%" alt="XamaleScrape" style="border-radius: 8px;" />
+        <img src="assets/xamale-scrape.png" width="100%" alt="XamaleScrape" style="border-radius: 8px;" />
       </a>
       <h4>⚡ <a href="https://github.com/Issa17398/XamaleScrape">XamaleScrape</a> <img src="https://img.shields.io/badge/Public-green?style=flat-square"/></h4>
       <p><b>Data Ingestion & LLM Ready</b></p>

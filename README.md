@@ -109,7 +109,7 @@
         <img src="assets/assistance-faq.png" width="100%" alt="Assistance FAQ" style="border-radius: 8px;" />
       </a>
       <h4>🧠 <a href="https://github.com/Issa17398/Assistance-FAQ">Assistance-FAQ</a></h4>
-      <p><b>RAG & GraphRAG</b></p>
+      <p><b>RAG</b></p>
       <p>Moteur de recherche contextuel et d'assistance pédagogique répondant aux interrogations à partir de supports de cours.</p>
       <p>
         <img src="https://img.shields.io/badge/ChromaDB-FF4500?style=flat-square&logo=fire&logoColor=white"/>
@@ -148,10 +148,8 @@
       </p>
     </td>
     <td width="33%" valign="top">
-      <a href="https://github.com/Issa17398/Projet_Point_BI">
-        <img src="assets/point-bi.png" width="100%" alt="Point BI" style="border-radius: 8px;" />
-      </a>
-      <h4>📈 <a href="https://github.com/Issa17398/Projet_Point_BI">Projet Point BI</a></h4>
+      <a href="https://github.com/Issa17398/Projet_Point_BI"></a>
+      <h4>📈 <a href="https://github.com/Issa17398/Projet_Point_BI">Projet Power BI</a></h4>
       <p><b>Business Intelligence</b></p>
       <p>Pipelines de traitement de données commerciales, indicateurs KPI et tableaux de bord analytiques pour le pilotage d'activité.</p>
       <p>

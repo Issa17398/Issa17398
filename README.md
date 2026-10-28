@@ -7,13 +7,13 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/issakha-sall)
-[![Portfolio](https://img.shields.io/badge/Mon_Portfolio-0F172A?style=for-the-badge&logo=About.me&logoColor=white)](#-projets-phares--réalisations)
+[![Portfolio](https://img.shields.io/badge/Mon_Portfolio-0F172A?style=for-the-badge&logo=About.me&logoColor=white)](https://issakha-sallportfolio.vercel.app)
 [![Freelance](https://img.shields.io/badge/Disponible_en_Freelance-16A34A?style=for-the-badge&logo=checkmarx&logoColor=white)](#-disponibilité--contact)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:issakha.sall@univ-thies.sn)
 
 <br/>
 
-> **"Je conçois des solutions Data & IA orientées impact opérationnel : architectures multi-agents autonomes, systèmes GraphRAG, pipelines de streaming continus et modèles décisionnels prédictifs."**
+> **"Je conçois des solutions Data & IA orientées impact opérationnel : architectures multi-agents autonomes, systèmes GraphRAG, pipelines de streaming continus, entrepôts Medallion et modèles décisionnels prédictifs."**
 
 </div>
 
@@ -30,8 +30,8 @@
     </td>
     <td width="33%" align="center">
       <h3>📊 Data Engineering & Streaming</h3>
-      <p align="left">Pipelines ETL/ELT distribués, ingestion de données temps réel, bases NoSQL/SQL, web scraping haute performance et conteneurisation.</p>
-      <sub><b>Outils :</b> Apache Kafka • Apache Airflow • Crawl4AI • PostgreSQL • MongoDB • Docker</sub>
+      <p align="left">Architecture Medallion (Bronze/Silver/Gold), modélisation Star Schema, pipelines ETL/ELT distribués, streaming temps réel et moteurs d'audit qualité automatisés.</p>
+      <sub><b>Outils :</b> Apache Kafka • Apache Airflow • Crawl4AI • PostgreSQL • MongoDB • Docker • Parquet</sub>
     </td>
     <td width="33%" align="center">
       <h3>👁️ Machine Learning & Vision</h3>
@@ -54,7 +54,7 @@
 <p>
   <a href="https://neo4j.com"><img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" height="28"/></a>
   <a href="https://www.mongodb.com"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" height="28"/></a>
-  <a href="https://www.postgresql.org"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" height="28"/></a>
+  <a href="https://www.postgresql.org"><img src="https://img.shields.io/badge/PostgreSQL_16-4169E1?style=flat-square&logo=postgresql&logoColor=white" height="28"/></a>
 </p>
 
 #### **Écosystème GenAI, LLMs, GraphRAG & Inférence Locale**
@@ -76,6 +76,7 @@
 </p>
 <p>
   <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Apache_Parquet-50A7C2?style=flat-square&logo=apache&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/Crawl4AI-3B82F6?style=flat-square&logo=curl&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="28"/>
@@ -92,10 +93,10 @@
   <!-- LIGNE 1 -->
   <tr>
     <td width="33%" valign="top">
-      <a href="https://github.com/Issa17398/XamaleEnergy">
+      <a href="https://github.com/Issa17398/French_energy">
         <img src="assets/xamale-energie.png" width="100%" alt="XamaleEnergy" style="border-radius: 8px;" />
       </a>
-      <h4>⚡ <a href="https://github.com/Issa17398/XamaleEnergy">XamaleEnergy</a> <img src="https://img.shields.io/badge/Public-green?style=flat-square"/></h4>
+      <h4>⚡ <a href="https://github.com/Issa17398/French_energy">XamaleEnergy</a> <img src="https://img.shields.io/badge/Public-green?style=flat-square"/></h4>
       <p><b>Data Engineering • Medallion • Star Schema</b></p>
       <p>Observatoire des données énergétiques françaises (RTE, Enedis). Pipeline Bronze/Silver/Gold en Parquet, audit qualité 100% PASS, API FastAPI et dashboard React 19.</p>
       <p>
@@ -119,10 +120,10 @@
       </p>
     </td>
     <td width="33%" valign="top">
-      <a href="https://github.com/Issa17398/Assistance-faq">
+      <a href="#-projets-sous-accord-de-confidentialité-privés">
         <img src="assets/assistance-faq.png" width="100%" alt="Assistance FAQ" style="border-radius: 8px;" />
       </a>
-      <h4>🧠 <a href="https://github.com/Issa17398/Assistance-faq">Assistance-faq</a> <img src="https://img.shields.io/badge/Public-green?style=flat-square"/></h4>
+      <h4>🧠 <a href="#-projets-sous-accord-de-confidentialité-privés">Assistance-faq</a> <img src="https://img.shields.io/badge/🔒-Privé-red?style=flat-square"/></h4>
       <p><b>RAG Pédagogique</b></p>
       <p>Moteur de recherche contextuel et d'assistance pédagogique répondant aux interrogations à partir de supports de cours[cite: 13, 18].</p>
       <p>
@@ -177,12 +178,17 @@
   <!-- LIGNE 3 -->
   <tr>
     <td width="33%" valign="top">
-      <a href="#-projets-sous-accord-de-confidentialité-privés">
+      <a href="https://issakha-sallportfolio.vercel.app" target="_blank">
         <img src="assets/mon-portfolio.png" width="100%" alt="Mon Portfolio" style="border-radius: 8px;" />
       </a>
       <h4>🌐 <a href="#-projets-sous-accord-de-confidentialité-privés">Mon Portfolio</a> <img src="https://img.shields.io/badge/🔒-Privé-red?style=flat-square"/></h4>
       <p><b>Frontend & Design Web</b></p>
       <p>Interface interactive et réactive valorisant mes compétences, mes projets en intelligence artificielle et mes coordonnées[cite: 18].</p>
+      <p>
+        <a href="https://issakha-sallportfolio.vercel.app" target="_blank">
+          <img src="https://img.shields.io/badge/🌐_Live_Demo-issakha--sallportfolio.vercel.app-0070F3?style=flat-square&logo=vercel&logoColor=white"/>
+        </a>
+      </p>
       <p>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
@@ -217,22 +223,44 @@
     </td>
   </tr>
 
-  <!-- LIGNE 4 (Évolutive pour futurs projets) -->
+  <!-- LIGNE 4 -->
   <tr>
     <td width="33%" valign="top">
-      <a href="#-projets-sous-accord-de-confidentialité-privés">
+      <a href="https://marhabanetechnologies.com" target="_blank">
         <img src="assets/marhabane-technologie.png" width="100%" alt="Marhabane Technologie" style="border-radius: 8px;" />
       </a>
       <h4>🏢 <a href="#-projets-sous-accord-de-confidentialité-privés">Marhabane Technologie</a> <img src="https://img.shields.io/badge/🔒-Privé-red?style=flat-square"/></h4>
       <p><b>Solutions Digitales & Web</b></p>
       <p>Plateforme web de présentation de services technologiques connectée à des endpoints de gestion automatisée[cite: 18].</p>
       <p>
+        <a href="https://marhabanetechnologies.com" target="_blank">
+          <img src="assets/marhabane-technologie.png" width="100%" alt="Marhabane Technologie" style="border-radius: 8px;" />
+        </a>
+      </p>
+      <p>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
       </p>
     </td>
-    <td width="33%" valign="top"></td>
+    <td width="33%" valign="top">
+      <a href="https://senegalaudiovisuel.streamlit.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Streamlit_App-Sénégal_Audiovisuel-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" width="100%" alt="Plateforme Decisionnelle MLOps" style="border-radius: 8px;" />
+      </a>
+      <h4>📊 <a href="https://github.com/Issa17398/Plateforme_Decisionnelle_MLOps">Plateforme_Decisionnelle_MLOps</a> <img src="https://img.shields.io/badge/Public-green?style=flat-square"/></h4>
+      <p><b>MLOps & Analytics Audiovisuel</b></p>
+      <p>Plateforme décisionnelle d'analyse et de suivi des données du secteur audiovisuel sénégalais déployée en production.</p>
+      <p>
+        <a href="https://senegalaudiovisuel.streamlit.app/" target="_blank">
+          <img src="https://img.shields.io/badge/🌐_Live_Demo-senegalaudiovisuel.streamlit.app-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+        </a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>
+      </p>
+    </td>
     <td width="33%" valign="top"></td>
   </tr>
 </table>
@@ -241,7 +269,7 @@
 
 ### 🔒 Projets sous Accord de Confidentialité (Privés)
 
-> Les dépôts **Xamale RH**, **Mon_Portfolio** et **Marhabane_technologie** sont configurés en accès privé pour des impératifs contractuels, de protection de code propriétaire ou d'intégration de clés d'API métier.  
+> Les dépôts **Xamale RH**, **Assistance-faq**, **Mon_Portfolio** et **Marhabane_technologie** sont configurés en accès privé pour des impératifs contractuels, de protection de code propriétaire ou d'intégration de clés d'API métier[cite: 18].  
 
 ---
 

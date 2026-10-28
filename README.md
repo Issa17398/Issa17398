@@ -163,7 +163,9 @@
       </p>
     </td>
     <td width="33%" valign="top">
-      <a href="https://github.com/Issa17398/Projet_Point_BI"></a>
+      <a href="https://github.com/Issa17398/Projet_Point_BI">
+        <img src="assets/madiba.png" width="100%" alt="Point BI" style="border-radius: 8px;" />
+      </a>
       <h4>📈 <a href="https://github.com/Issa17398/Projet_Point_BI">Projet Power BI</a> <img src="https://img.shields.io/badge/Public-green?style=flat-square"/></h4>
       <p><b>Business Intelligence</b></p>
       <p>Pipelines de traitement de données commerciales, indicateurs KPI et tableaux de bord analytiques pour le pilotage d'activité[cite: 17].</p>
@@ -234,7 +236,7 @@
       <p>Plateforme web de présentation de services technologiques connectée à des endpoints de gestion automatisée[cite: 18].</p>
       <p>
         <a href="https://marhabanetechnologies.com" target="_blank">
-          <img src="assets/marhabane-technologie.png" width="100%" alt="Marhabane Technologie" style="border-radius: 8px;" />
+          <img src="https://img.shields.io/badge/🌐_Live_Site-marhabanetechnologies.com-10B981?style=flat-square&logo=googlechrome&logoColor=white"/>
         </a>
       </p>
       <p>
@@ -244,16 +246,12 @@
       </p>
     </td>
     <td width="33%" valign="top">
-      <a href="https://senegalaudiovisuel.streamlit.app/" target="_blank">
-        <img src="https://img.shields.io/badge/Streamlit_App-Sénégal_Audiovisuel-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" width="100%" alt="Plateforme Decisionnelle MLOps" style="border-radius: 8px;" />
-      </a>
+      <a href="https://senegalaudiovisuel.streamlit.app/" target="_blank"></a>
       <h4>📊 <a href="https://github.com/Issa17398/Plateforme_Decisionnelle_MLOps">Plateforme_Decisionnelle_MLOps</a> <img src="https://img.shields.io/badge/Public-green?style=flat-square"/></h4>
       <p><b>MLOps & Analytics Audiovisuel</b></p>
       <p>Plateforme décisionnelle d'analyse et de suivi des données du secteur audiovisuel sénégalais déployée en production.</p>
       <p>
-        <a href="https://senegalaudiovisuel.streamlit.app/" target="_blank">
-          <img src="https://img.shields.io/badge/🌐_Live_Demo-senegalaudiovisuel.streamlit.app-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-        </a>
+        <a href="https://senegalaudiovisuel.streamlit.app/" target="_blank"></a>
       </p>
       <p>
         <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>

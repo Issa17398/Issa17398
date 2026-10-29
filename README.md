@@ -163,9 +163,7 @@
       </p>
     </td>
     <td width="33%" valign="top">
-      <a href="https://github.com/Issa17398/Projet_Point_BI">
-        <img src="assets/madiba.png" width="100%" alt="Point BI" style="border-radius: 8px;" />
-      </a>
+      <a href="https://github.com/Issa17398/Projet_Point_BI"></a>
       <h4>📈 <a href="https://github.com/Issa17398/Projet_Point_BI">Projet Power BI</a> <img src="https://img.shields.io/badge/Public-green?style=flat-square"/></h4>
       <p><b>Business Intelligence</b></p>
       <p>Pipelines de traitement de données commerciales, indicateurs KPI et tableaux de bord analytiques pour le pilotage d'activité[cite: 17].</p>

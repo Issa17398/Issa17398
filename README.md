@@ -163,7 +163,9 @@
       </p>
     </td>
     <td width="33%" valign="top">
-      <a href="https://github.com/Issa17398/Projet_Point_BI"></a>
+      <a href="https://github.com/Issa17398/Projet_Point_BI">
+        <img src="assets/madiba.png" width="100%" alt="Point BI" style="border-radius: 8px;" />
+      </a>
       <h4>📈 <a href="https://github.com/Issa17398/Projet_Point_BI">Projet Power BI</a> <img src="https://img.shields.io/badge/Public-green?style=flat-square"/></h4>
       <p><b>Business Intelligence</b></p>
       <p>Pipelines de traitement de données commerciales, indicateurs KPI et tableaux de bord analytiques pour le pilotage d'activité[cite: 17].</p>
@@ -244,7 +246,9 @@
       </p>
     </td>
     <td width="33%" valign="top">
-      <a href="https://senegalaudiovisuel.streamlit.app/" target="_blank"></a>
+      <a href="https://senegalaudiovisuel.streamlit.app/" target="_blank">
+        <img src="assets/plateforme_decisionnelle_mlops.png" width="100%" alt="Plateforme Decisionnelle MLOps" style="border-radius: 8px;" />
+      </a>
       <h4>📊 <a href="https://github.com/Issa17398/Plateforme_Decisionnelle_MLOps">Plateforme_Decisionnelle_MLOps</a> <img src="https://img.shields.io/badge/Public-green?style=flat-square"/></h4>
       <p><b>MLOps & Analytics Audiovisuel</b></p>
       <p>Plateforme décisionnelle d'analyse et de suivi des données du secteur audiovisuel sénégalais déployée en production.</p>
